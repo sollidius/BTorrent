@@ -6,6 +6,7 @@ trackers = [
   'wss://tracker.webtorrent.io'
   'wss://tracker.openwebtorrent.com'
   'wss://tracker.fastcast.nz'
+  'wss://tracker.ξδξ.eu'
 ]
 
 opts = {
